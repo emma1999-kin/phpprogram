@@ -1,4 +1,4 @@
-hj
-hjjh
-get_object_vars
-Ma modification
+<?hj
+
+
+?>
